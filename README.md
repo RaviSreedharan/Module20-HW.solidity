@@ -18,11 +18,11 @@ Image of the initial screen before any 'transactions' have been initiated.
 Screenshot showing details (including Contract balance) after the 1st transaction was executed.
 
 ### Transaction #2 (10 Ether/10000000000000000000 Wei sent)
-![Transaction 2 screenshot.](./Images/Transaction2_10Ether_SS.png)
+![Transaction 2 screenshot.](./Images/Transaction2_5Ether_SS.png)
 Screenshot showing details (including Contract balance) after the 2nd transaction was executed.
 
 ### Transaction #3 (5 Ether/5000000000000000000 Wei sent)
-![Transaction 3 screenshot.](./Images/Transaction3_5Ether_SS)
+![Transaction 3 screenshot.](./Images/Transaction3_10Ether_SS)
 Screenshot showing details (including Contract balance) after the 3rd transaction was executed.
 
 ### Transaction #4 (Withdraw 5 Ether/5000000000000000000 Wei into AccountTwo).
